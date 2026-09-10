@@ -1,2 +1,6 @@
 # na-sec-vulns-profile-manager-cli
-security / critical / na
+
+Team: **security**  
+Tier: **critical**  
+Region: **na**  
+Synthetic demo repo for the Domo governance platform.
